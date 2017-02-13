@@ -4,6 +4,6 @@ Built the project using Html, CSS and Bootstrap
 
 Steps to get this project:
 
-git clone https://github.com/iamabv/bullsfirst-app-angularjs-.git
+git clone https://github.com/iamabv/Html-css-bootstrap.git
 
-cd bullsfirst-app-angularjs-
+cd Html-css-bootstrap
